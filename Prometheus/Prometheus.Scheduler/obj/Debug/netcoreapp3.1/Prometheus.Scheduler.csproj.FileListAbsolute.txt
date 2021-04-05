@@ -1,0 +1,9 @@
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Scheduler\bin\Debug\netcoreapp3.1\Prometheus.Scheduler.deps.json
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Scheduler\bin\Debug\netcoreapp3.1\Prometheus.Scheduler.dll
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Scheduler\bin\Debug\netcoreapp3.1\Prometheus.Scheduler.pdb
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Scheduler\obj\Debug\netcoreapp3.1\Prometheus.Scheduler.csprojAssemblyReference.cache
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Scheduler\obj\Debug\netcoreapp3.1\Prometheus.Scheduler.AssemblyInfoInputs.cache
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Scheduler\obj\Debug\netcoreapp3.1\Prometheus.Scheduler.AssemblyInfo.cs
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Scheduler\obj\Debug\netcoreapp3.1\Prometheus.Scheduler.csproj.CoreCompileInputs.cache
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Scheduler\obj\Debug\netcoreapp3.1\Prometheus.Scheduler.dll
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Scheduler\obj\Debug\netcoreapp3.1\Prometheus.Scheduler.pdb

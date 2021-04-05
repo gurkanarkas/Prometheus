@@ -1,0 +1,9 @@
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Models\bin\Debug\netcoreapp3.1\Prometheus.Models.deps.json
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Models\bin\Debug\netcoreapp3.1\Prometheus.Models.dll
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Models\bin\Debug\netcoreapp3.1\Prometheus.Models.pdb
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Models\obj\Debug\netcoreapp3.1\Prometheus.Models.csprojAssemblyReference.cache
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Models\obj\Debug\netcoreapp3.1\Prometheus.Models.AssemblyInfoInputs.cache
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Models\obj\Debug\netcoreapp3.1\Prometheus.Models.AssemblyInfo.cs
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Models\obj\Debug\netcoreapp3.1\Prometheus.Models.csproj.CoreCompileInputs.cache
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Models\obj\Debug\netcoreapp3.1\Prometheus.Models.dll
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Models\obj\Debug\netcoreapp3.1\Prometheus.Models.pdb

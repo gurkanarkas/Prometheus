@@ -1,0 +1,12 @@
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Business\bin\Debug\netcoreapp3.1\Prometheus.Business.deps.json
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Business\bin\Debug\netcoreapp3.1\Prometheus.Business.dll
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Business\bin\Debug\netcoreapp3.1\Prometheus.Business.pdb
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Business\obj\Debug\netcoreapp3.1\Prometheus.Business.csprojAssemblyReference.cache
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Business\obj\Debug\netcoreapp3.1\Prometheus.Business.AssemblyInfoInputs.cache
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Business\obj\Debug\netcoreapp3.1\Prometheus.Business.AssemblyInfo.cs
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Business\obj\Debug\netcoreapp3.1\Prometheus.Business.csproj.CoreCompileInputs.cache
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Business\obj\Debug\netcoreapp3.1\Prometheus.Business.dll
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Business\obj\Debug\netcoreapp3.1\Prometheus.Business.pdb
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Business\bin\Debug\netcoreapp3.1\Prometheus.Models.dll
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Business\bin\Debug\netcoreapp3.1\Prometheus.Models.pdb
+D:\Users\kamil.arkas\Desktop\Prometheus\Prometheus\Prometheus.Business\obj\Debug\netcoreapp3.1\Prometheus.Business.csproj.CopyComplete

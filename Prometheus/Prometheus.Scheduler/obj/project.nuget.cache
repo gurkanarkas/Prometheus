@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rz95BIwM+I/3elLPK+GwASZd8V8mGUtgoMRgBihhdrV0iYIkaKdj/Oe12VkxWvWdUqe9dhFHhUqdO/08Q2eA6A==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Scheduler\\Prometheus.Scheduler.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\kamil.arkas\\.nuget\\packages\\hangfire.aspnetcore\\1.7.19\\hangfire.aspnetcore.1.7.19.nupkg.sha512",
+    "D:\\Users\\kamil.arkas\\.nuget\\packages\\hangfire.core\\1.7.19\\hangfire.core.1.7.19.nupkg.sha512",
+    "D:\\Users\\kamil.arkas\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

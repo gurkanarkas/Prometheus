@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus\\Prometheus.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Business\\Prometheus.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Business\\Prometheus.Business.csproj",
+        "projectName": "Prometheus.Business",
+        "projectPath": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Business\\Prometheus.Business.csproj",
+        "packagesPath": "D:\\Users\\kamil.arkas\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\kamil.arkas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Models\\Prometheus.Models.csproj": {
+                "projectPath": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Models\\Prometheus.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Models\\Prometheus.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Models\\Prometheus.Models.csproj",
+        "projectName": "Prometheus.Models",
+        "projectPath": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Models\\Prometheus.Models.csproj",
+        "packagesPath": "D:\\Users\\kamil.arkas\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\kamil.arkas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Scheduler\\Prometheus.Scheduler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Scheduler\\Prometheus.Scheduler.csproj",
+        "projectName": "Prometheus.Scheduler",
+        "projectPath": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Scheduler\\Prometheus.Scheduler.csproj",
+        "packagesPath": "D:\\Users\\kamil.arkas\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Scheduler\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\kamil.arkas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.7.19, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.7.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus\\Prometheus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus\\Prometheus.csproj",
+        "projectName": "Prometheus",
+        "projectPath": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus\\Prometheus.csproj",
+        "packagesPath": "D:\\Users\\kamil.arkas\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\kamil.arkas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Business\\Prometheus.Business.csproj": {
+                "projectPath": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Business\\Prometheus.Business.csproj"
+              },
+              "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Scheduler\\Prometheus.Scheduler.csproj": {
+                "projectPath": "D:\\Users\\kamil.arkas\\Desktop\\Prometheus\\Prometheus\\Prometheus.Scheduler\\Prometheus.Scheduler.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.7.19, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.7.19, )"
+            },
+            "Hangfire.MemoryStorage": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Hangfire.SqlServer": {
+              "target": "Package",
+              "version": "[1.7.19, )"
+            },
+            "Hangfire.Unity": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
